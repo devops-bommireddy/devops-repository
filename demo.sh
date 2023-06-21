@@ -1,5 +1,9 @@
 #!/bin/bash
-create file in repository
-then create another file
-third line added
-added fourth line 
+
+echo " ************ display root f.s space  ******** "
+df -h
+echo " *********** display today date ********** "
+date 
+
+
+
